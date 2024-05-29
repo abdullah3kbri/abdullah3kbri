@@ -1,3 +1,4 @@
+[i[MasterHead](https://img.freepik.com/free-vector/flat-gamer-room-illustration_23-2148955229.jpg?t=st=1717020407~exp=1717024007~hmac=6c29c970499dc3aa8132c9f56bf65578e90fe5a6cae736e5bf5aa18401f51006&w=1060)]
 <h1 align="center">Hi 👋, I'm Abdullah Alakbari</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F06%2F01%2F17%2F18%2F360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg&tbnid=s6wSpS44H7ORgM&vet=1&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Ddeveloper%2Bcartoon&docid=LfiF16KcHDAXgM&w=540&h=360&hl=ar-EG&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=e286047ff2a9bd58&shem=abme%2Cssic%2Ctrie%2Cxga1pc">
