@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="100%" src="https://img.freepik.com/free-vector/flat-gamer-room-illustration_23-2148955229.jpg?t=st=1717020407~exp=1717024007~hmac=6c29c970499dc3aa8132c9f56bf65578e90fe5a6cae736e5bf5aa18401f51006&w=1060">
+<img align="center" alt="coding" width="100%" src="https://img.freepik.com/free-vector/young-man-using-laptop-standing-by-window-night_107791-25477.jpg?t=st=1717023845~exp=1717027445~hmac=07ca412fc6d7721f434420598585518b7db893413279f1d22e9fe76682087d5a&w=1060">
 <h1 align="center">Hi 👋, I'm Abdullah Alakbari</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1717023217~exp=1717026817~hmac=81f2001d6b0c7b6e39c9d3dceccddae5c14d28f05797bc164340eaabfcc9667e&w=1060">
