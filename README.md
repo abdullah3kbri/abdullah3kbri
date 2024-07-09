@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Graduation Project**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Nuxt**
 
-- 💬 Ask me about **JS, C#, SQL, ASP.NET and bootstrap**
+- 💬 Ask me about **JS, C#, SQL, ASP.NET bootstrap and Vue.js**
 
 - 📫 How to reach me **alakbri0@gmail.com**
 
