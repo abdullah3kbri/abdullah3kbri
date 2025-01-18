@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/3kbry" target="blank"><img src="https://img.shields.io/twitter/follow/3kbry?logo=twitter&style=for-the-badge" alt="3kbry" /></a> </p>
 
-- 🔭 I’m currently working on **ERP Project Uing Nuxt.js**
+- 🔭 I’m currently working on **ERP Project Using Nuxt.js**
 
 - 🎯 Goal: **Full-Stack Developer**
 
